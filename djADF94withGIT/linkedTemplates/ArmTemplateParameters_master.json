@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "djADF94withGIT"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
